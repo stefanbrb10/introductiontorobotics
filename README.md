@@ -15,7 +15,7 @@ Components:
   - 3x 330 Ohm resistors
   - Wires
 
-The final hardware work is captured on the picture below and on [this video link](https://www.youtube.com/), and the code can be found on the repository. 
+The final hardware work is captured on the picture below and on [this video link](https://youtu.be/odYh3JC_jyA?si=RXHRvevwee9fD3rG), and the code can be found on the repository. 
 <br>
 ![image](https://github.com/stefanbrb10/introductiontorobotics/assets/35970743/0af54fdd-1940-4970-a4af-ea1c8e126ec9)
 
