@@ -29,7 +29,7 @@ Components:
 - 4x 330 Ohm resistors & 1x 1kOhm resistor
 - Wires
 
-  The final hardware work is captured on the picture below and on [this video link] (https://youtube.com/shorts/i1zYdx4s9Cg?feature=share), and the code can be found on the repository.
+  The final hardware work is captured on the picture below and on [this video link](https://youtube.com/shorts/i1zYdx4s9Cg?feature=share), and the code can be found on the repository.
   <br>
   ![image](https://github.com/stefanbrb10/introductiontorobotics/assets/35970743/888d47f4-f7b1-465b-a961-61a462445321)
 
