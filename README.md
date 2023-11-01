@@ -20,7 +20,7 @@ The final hardware work is captured on the picture below and on [this video link
 ![image](https://github.com/stefanbrb10/introductiontorobotics/assets/35970743/0af54fdd-1940-4970-a4af-ea1c8e126ec9)
 
 ## Homework 2 - Elevator Control System using Arduino components
-This assignment is an elevator simulator that uses LEDs as signals for the current floor. Each floor has a button to call the elevator. My code has the system's logic implemented, so it functions like a real-life elevator.<br> After completing this task, I feel more confident in my ability to organize my code and translate my thoughts into real-world functionality through programming.
+This assignment is an elevator simulator that uses LEDs as signals for the current floor. Each floor has a button to call the elevator. My code has the system's logic implemented, so it functions like a real-life elevator.<br> <br> After completing this task, I feel more confident in my ability to organize my code and translate my thoughts into real-world functionality through programming.
 <br><br>
 Components:
 - 4x LEDs (different colors)
