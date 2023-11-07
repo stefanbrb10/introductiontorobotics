@@ -49,6 +49,8 @@ int segments[segSize] = {
   pinA, pinB, pinC, pinD, pinE, pinF, pinG, pinDP
 };
 
+const int directionCount = 4;
+//each number represents the direction column in the movementMatrix
 const int up = 0;
 const int down = 1;
 const int left = 2;
@@ -65,7 +67,7 @@ const int segmentG = 6;
 const int segmentDP = 7;
 
 // For example, we can move from segment G to segments A (up) and D (down)
-const int movementMatrix[segSize][4] = {
+const int movementMatrix[segSize][directionCount] = {
      // up         down    left       right
   { canNotMove, segmentG, segmentF, segmentB },     // a
   { segmentA, segmentG, segmentF, canNotMove },     // b
