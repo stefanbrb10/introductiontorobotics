@@ -33,5 +33,17 @@ Components:
   <br>
   ![image](https://github.com/stefanbrb10/introductiontorobotics/assets/35970743/888d47f4-f7b1-465b-a961-61a462445321)
 
+## Homework 3 - Draw a character on a 7 segment display using joystick
+Using a joystick's position, we can draw on a 7 segment display. A long press will reset the display and a short press will toggle the current segment's position (indicated by blinking). <br><br>
+After completing this task, I understood the common anode vs cathode logic, how to use ISR (Interrupt Service Routine) and by each week, my code gets cleaner.
+<br> <br>
+Components:
+- 1x 7 segment display
+- 1x joystick
+- 8x 330 Ohm resistors
+- Wires, Arduino UNO
+
+  The final hardware work is captured on the picture below and on [this video link](https://www.youtube.com/watch?v=Km1vf0I4Pb0), and the code can be found on the repository as [homework_3.ino](https://github.com/stefanbrb10/introductiontorobotics/blob/main/homework_3.ino).
+![image](https://github.com/stefanbrb10/introductiontorobotics/assets/35970743/13bf82e2-d57e-4298-a8d6-e794f54ce552)
 
 
