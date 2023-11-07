@@ -13,7 +13,7 @@ const int pinF = 6;
 const int pinG = 5;
 const int pinDP = 4;
 
-const int segSize = 8; // our 7-segment display has 7 pins for number +dp
+const int segSize = 8; // our 7 segment display has 7 pins for number +dp
 
 // the values from the joystick
 int xValue = 0; 
