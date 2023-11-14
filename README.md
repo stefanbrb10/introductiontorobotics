@@ -43,7 +43,8 @@ Components:
 - 8x 330 Ohm resistors
 - Wires, Arduino UNO
 
-  The final hardware work is captured on the picture below and on [this video link](https://www.youtube.com/watch?v=Km1vf0I4Pb0), and the code can be found on the repository as [homework_3.ino](https://github.com/stefanbrb10/introductiontorobotics/blob/main/homework_3.ino).
+  The final hardware work is captured on the picture below and on [this video link](https://www.youtube.com/watch?v=Km1vf0I4Pb0) and the code can be found on the repository as [homework_3.ino](https://github.com/stefanbrb10/introductiontorobotics/blob/main/homework_3.ino).
+  <br>
 ![image](https://github.com/stefanbrb10/introductiontorobotics/assets/35970743/13bf82e2-d57e-4298-a8d6-e794f54ce552)
 
 ## Homework 4 - Stopwatch timer with Shift Register for 4x7segment display
@@ -57,7 +58,7 @@ Components:
 - 330 Ohm resistors
 - Wires, Arduino Uno
 
-  The final hardware work is captured on the picture below and on [this video link] (https://youtube.com/shorts/aBiMd_EpWYw?feature=share), and on the code in the repository as [homework_4.ino] (https://github.com/stefanbrb10/introductiontorobotics/blob/main/homework_4.ino).
+  The final hardware work is captured on the picture below and on [this video link](https://youtube.com/shorts/aBiMd_EpWYw?feature=share), and on the code in the repository as [homework_4.ino](https://github.com/stefanbrb10/introductiontorobotics/blob/main/homework_4.ino).
 ![image](https://github.com/stefanbrb10/introductiontorobotics/assets/35970743/9fd29df9-7123-4fe7-be7e-319e23dd095a)
 
 
