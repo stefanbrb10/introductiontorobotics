@@ -46,4 +46,19 @@ Components:
   The final hardware work is captured on the picture below and on [this video link](https://www.youtube.com/watch?v=Km1vf0I4Pb0), and the code can be found on the repository as [homework_3.ino](https://github.com/stefanbrb10/introductiontorobotics/blob/main/homework_3.ino).
 ![image](https://github.com/stefanbrb10/introductiontorobotics/assets/35970743/13bf82e2-d57e-4298-a8d6-e794f54ce552)
 
+## Homework 4 - Stopwatch timer with Shift Register for 4x7segment display
+This task uses 4x7segment digit display for a stopwatch timer, similar to the default iPhone app, but limited to the capabilites of the 4x7segment display. There are 3 buttons (start/pause, reset, save/cycle lap).
+<br> <br>
+I feel the purpose of this task has been accomplished. I learned about the precision of interrupts, how a shift register works (clock, latch, data) and my code commenting gets more complete. 
+<br> <br>
+Components:
+- 1x 4-7segment display
+- 1x shift register 74HC595
+- 330 Ohm resistors
+- Wires, Arduino Uno
+
+  The final hardware work is captured on the picture below and on [this video link] (https://youtube.com/shorts/aBiMd_EpWYw?feature=share), and on the code in the repository as [homework_4.ino] (https://github.com/stefanbrb10/introductiontorobotics/blob/main/homework_4.ino)
+<br>
+![image](https://github.com/stefanbrb10/introductiontorobotics/assets/35970743/9fd29df9-7123-4fe7-be7e-319e23dd095a)
+
 
