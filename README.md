@@ -57,8 +57,7 @@ Components:
 - 330 Ohm resistors
 - Wires, Arduino Uno
 
-  The final hardware work is captured on the picture below and on [this video link] (https://youtube.com/shorts/aBiMd_EpWYw?feature=share), and on the code in the repository as [homework_4.ino] (https://github.com/stefanbrb10/introductiontorobotics/blob/main/homework_4.ino)
-<br>
+  The final hardware work is captured on the picture below and on [this video link] (https://youtube.com/shorts/aBiMd_EpWYw?feature=share), and on the code in the repository as [homework_4.ino] (https://github.com/stefanbrb10/introductiontorobotics/blob/main/homework_4.ino).
 ![image](https://github.com/stefanbrb10/introductiontorobotics/assets/35970743/9fd29df9-7123-4fe7-be7e-319e23dd095a)
 
 
