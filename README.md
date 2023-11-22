@@ -83,7 +83,7 @@ This Arduino UNO project combines an ultrasonic sensor and a light sensor, with 
 - 1x RGB LED
 - Wires, Arduino UNO
 
-The final hardware work is captured on the picture below and on [this video link](https://www.youtube.com/watch?v=Km1vf0I4Pb0), and the code can be found on the repository as [homework_5.ino](https://github.com/stefanbrb10/introductiontorobotics/blob/main/homework_5.ino).
+The final hardware work is captured on the picture below and on [this video link](https://youtu.be/zV3ibLjZzx8), and the code can be found on the repository as [homework_5.ino](https://github.com/stefanbrb10/introductiontorobotics/blob/main/homework_5.ino).
 
 ![image](https://github.com/stefanbrb10/introductiontorobotics/assets/35970743/7ece5583-0ac0-4c2b-8f7d-92d04be0f223)
 
