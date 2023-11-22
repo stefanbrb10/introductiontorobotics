@@ -70,3 +70,21 @@ The final hardware work is captured on the picture below and on [this video link
 
 ![image](https://github.com/stefanbrb10/introductiontorobotics/assets/35970743/9fd29df9-7123-4fe7-be7e-319e23dd095a)
 </details>
+
+<details>
+<summary><strong>Homework 5 - Pseudo-smart environment monitor and logger </strong></summary>
+
+This Arduino UNO project combines an ultrasonic sensor and a light sensor, with user interaction through the serial monitor. A menu-driven interface allows users to configure sensor settings, reset data logs, check system status, and control an RGB LED for alerts. The use of EEPROM enables data persistence, and the system logs sensor data at specified intervals. The project offers practical experience in sensor integration, menu systems, EEPROM usage, user input handling, RGB LED control, and timing in embedded systems.
+
+**Components:**
+- 1x LDR sensor
+- 1x Ultrasonic sensor
+- 1k and 330 Ohm resistors
+- 1x RGB LED
+- Wires, Arduino UNO
+
+The final hardware work is captured on the picture below and on [this video link](https://www.youtube.com/watch?v=Km1vf0I4Pb0), and the code can be found on the repository as [homework_5.ino](https://github.com/stefanbrb10/introductiontorobotics/blob/main/homework_5.ino).
+
+![image](https://github.com/stefanbrb10/introductiontorobotics/assets/35970743/7ece5583-0ac0-4c2b-8f7d-92d04be0f223)
+
+</details>
