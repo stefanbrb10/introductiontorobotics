@@ -63,6 +63,7 @@ unsigned long lastAutomaticTime = 0;
 unsigned long lastSampleTime = 0;
 unsigned long lastLogTime = 0;
 
+
 void setup() {
   Serial.begin(9600);
   pinMode(redPin, OUTPUT);
@@ -82,7 +83,8 @@ void setup() {
 
 void loop() {
   getOption(); // read user menu input
-  doAction(); // act accordingly to the user input
+  if(inSubMenu)
+    doAction(); // act accordingly to the user input
   if (EEPROM.read(eepromAutoModeAddress)) {
     automaticModeAction(); // if automatic mode is ON we listen for alerts
   }
@@ -108,12 +110,15 @@ void getOption() {
         printCurrentOption();
       } else {
         if (choice == upperLimit[currentMenu]) {
+          currentSubMenu = choice;
           goToMainMenu(); // these are the "Back" statements (they are always last)
-        } else {
-          currentSubMenu = choice; // log the submenu user choice
         }
+          else {
+           currentSubMenu = choice; // log the submenu user choice
+           inSubMenu = true;
+         }
       } 
-    } else { // the menu value is not in the good range
+    } else if(currentSubMenu == 0) { // the menu value is not in the good range
       Serial.println("Choose a valid value."); 
       goToMainMenu(); // print the main menu and refresh its' variables
     }
@@ -228,7 +233,7 @@ void doActionSensorSettings() {
       Serial.println("Give a sampling rate for the sensors (1-10)");
       asked = true;
     }
-    if (Serial.available() && inSubMenu) {
+    if (Serial.available()) {
       samplingRate = Serial.parseInt();
       if (samplingRate >= minSampRate && samplingRate <= maxSampRate) {
         goToMainMenu();
