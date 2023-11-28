@@ -88,3 +88,23 @@ The final hardware work is captured on the picture below and on [this video link
 ![image](https://github.com/stefanbrb10/introductiontorobotics/assets/35970743/7ece5583-0ac0-4c2b-8f7d-92d04be0f223)
 
 </details>
+
+
+<details>
+<summary><strong>Homework 6 - Bomberman Game on matrix </strong></summary>
+
+This project has a bomberman style logic. The player moves on a map with randomly generated walls. Winning consists of demolishing all the walls using a bomb. Losing consists of being in the dangerous area while the bomb is exploding. 
+
+**Components:**
+- 1x 8x8 matrix
+- 1x MAX7219
+- resistors and capacitors
+- 1x joystick
+- Wires, Arduino UNO
+
+The final hardware work is captured on the picture below and on [this video link](https://youtube.com/shorts/MaLJcmhFMBo?feature=share), and the code can be found on the repository as [homework_5.ino](https://github.com/stefanbrb10/introductiontorobotics/blob/main/homework_6.ino).
+
+![image](https://github.com/stefanbrb10/introductiontorobotics/assets/35970743/cbf32460-1a92-47ba-abe6-525248509c52)
+
+
+</details>
