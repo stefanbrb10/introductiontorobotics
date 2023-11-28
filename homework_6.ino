@@ -94,9 +94,6 @@ void setup() {
 }
 
 void loop() {
-  // Serial.print("You have blown ");
-  // Serial.print(wallsBlown);
-  // Serial.println(" walls");
   Serial.print(currentPosition.x);
   Serial.print("  ");
   Serial.println(currentPosition.y);
@@ -254,4 +251,6 @@ void displayWinAnimation() {
       matrix[row][column] = wPattern[row][column];
     }
   }
+  Serial.print("Your score is: ");
+  Serial.println(startGameTime - millis());
 }
