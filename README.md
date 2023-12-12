@@ -102,7 +102,7 @@ This project has a bomberman style logic. The player moves on a map with randoml
 - 1x joystick
 - Wires, Arduino UNO
 
-The final hardware work is captured on the picture below and on [this video link](https://youtube.com/shorts/MaLJcmhFMBo?feature=share), and the code can be found on the repository as [homework_5.ino](https://github.com/stefanbrb10/introductiontorobotics/blob/main/homework_6.ino).
+The final hardware work is captured on the picture below and on [this video link](https://youtube.com/shorts/MaLJcmhFMBo?feature=share), and the code can be found on the repository as [homework_6.ino](https://github.com/stefanbrb10/introductiontorobotics/blob/main/homework_6.ino).
 
 ![image](https://github.com/stefanbrb10/introductiontorobotics/assets/35970743/cbf32460-1a92-47ba-abe6-525248509c52)
 
@@ -124,9 +124,10 @@ After homework 6, I added an LCD screen for menu options and dynamic details (le
 - 1x joystick
 - Wires, Arduino UNO
 
-The final hardware work is captured on the picture below and on [this video link](https://youtube.com/shorts/MaLJcmhFMBo?feature=share), and the code can be found on the repository as [homework_5.ino](https://github.com/stefanbrb10/introductiontorobotics/blob/main/homework_6.ino).
+The final hardware work is captured on the picture below and on [this video link](https://youtube.com/shorts/hcB1159GItA), and the code can be found on the repository as [matrixGame.ino](https://github.com/stefanbrb10/introductiontorobotics/blob/main/matrixGame.ino).
 
-![image](https://github.com/stefanbrb10/introductiontorobotics/assets/35970743/cbf32460-1a92-47ba-abe6-525248509c52)
+![image](https://github.com/stefanbrb10/introductiontorobotics/assets/35970743/dad5e062-993b-4e17-9c58-45773a2f9a62)
+
 
 
 </details>
