@@ -108,3 +108,25 @@ The final hardware work is captured on the picture below and on [this video link
 
 
 </details>
+
+
+<details>
+<summary><strong>Homework 7 - Matrix project - checkpoint #1 </strong></summary>
+
+After homework 6, I added an LCD screen for menu options and dynamic details (level, time and will implement more), stored values in EEPROM. Next, i will implement lifes, enemies, leaderboard and more.
+
+**Components:**
+- 1x 8x8 matrix
+- 1x MAX7219
+- 1x LCD screen
+- 1x potentiometer
+- resistors and capacitors
+- 1x joystick
+- Wires, Arduino UNO
+
+The final hardware work is captured on the picture below and on [this video link](https://youtube.com/shorts/MaLJcmhFMBo?feature=share), and the code can be found on the repository as [homework_5.ino](https://github.com/stefanbrb10/introductiontorobotics/blob/main/homework_6.ino).
+
+![image](https://github.com/stefanbrb10/introductiontorobotics/assets/35970743/cbf32460-1a92-47ba-abe6-525248509c52)
+
+
+</details>
